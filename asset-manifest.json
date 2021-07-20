@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BhukyaTharun_CS20B016/static/css/main.a617e044.chunk.css",
+    "main.js": "/BhukyaTharun_CS20B016/static/js/main.08fa9910.chunk.js",
+    "main.js.map": "/BhukyaTharun_CS20B016/static/js/main.08fa9910.chunk.js.map",
+    "runtime-main.js": "/BhukyaTharun_CS20B016/static/js/runtime-main.07ef93d7.js",
+    "runtime-main.js.map": "/BhukyaTharun_CS20B016/static/js/runtime-main.07ef93d7.js.map",
+    "static/js/2.42e4540a.chunk.js": "/BhukyaTharun_CS20B016/static/js/2.42e4540a.chunk.js",
+    "static/js/2.42e4540a.chunk.js.map": "/BhukyaTharun_CS20B016/static/js/2.42e4540a.chunk.js.map",
+    "static/js/3.1012cf77.chunk.js": "/BhukyaTharun_CS20B016/static/js/3.1012cf77.chunk.js",
+    "static/js/3.1012cf77.chunk.js.map": "/BhukyaTharun_CS20B016/static/js/3.1012cf77.chunk.js.map",
+    "index.html": "/BhukyaTharun_CS20B016/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/BhukyaTharun_CS20B016/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.42e4540a.chunk.js.LICENSE.txt": "/BhukyaTharun_CS20B016/static/js/2.42e4540a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BhukyaTharun_CS20B016/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ef93d7.js",
+    "static/js/2.42e4540a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.08fa9910.chunk.js"
+  ]
+}
